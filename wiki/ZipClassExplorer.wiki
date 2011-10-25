@@ -1,13 +1,27 @@
-#summary One-sentence summary of this page.
+#labels Phase-Requirements,Phase-Design,Phase-Implementation
+=Search any  file from a set of zip files=
 
 = Introduction =
 
-Add your content here.
+_Often we end up in hunting for few  files from zip files. As the the saying goes, necessity is the mother of invention, that's how this tool came into it's existence. 
+
+The tool serves the needs of people who are in search of few  files from a pool of zip files. This tool doesn't demand you to know the fully qualified name of the  file either. The tool is smart enough to support regular expression search and helps you copy and export your search to an excel files for future reference_ 
+
+*Feature List*
+
+1. *Regular Expression Search:* You needn't even know the fully qualified name of the file. This tool supports regular expression search to find your file. Yes as you expect, it does *Regular Expression Validation* as well
+
+2. File name display matching the search along with the zip file name and full path of the zip file in your machine
+
+3. *Right click & Copy:* You can right click and copy your desired fields such as file name , zip file name or path of zip file
+
+4. *Export* Your search result can be exported to an excel sheet or copy to a word pad
+
+5.  Input File Validation if it's a ZIP/JAR file or not
 
 
-= Details =
+== Support ==
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+For any kind of assistance or support you can mail to 
+
+*_vinthri@gmail.com_*
